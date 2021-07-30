@@ -1,0 +1,11 @@
+{
+  "name": "cantopop-ui-build",
+  "version": "1.0.0",
+  "description": "UI build for cantopop",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "gh-pages": "3.2.3"
+  }
+}
